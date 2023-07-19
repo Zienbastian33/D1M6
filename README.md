@@ -1,24 +1,9 @@
 # README
+Desafio 1 Modulo 6
+Se corrigieron errores en los modelos.
+Se modificaron atributos a modelos
+Se agregaron CDN BOOTSTRAP JS
+Se modifico el edit de movies para que se pueda asignar a un cliente
+Se modifico el controlador de clients para que muestre si el cliente tiene una pelicula arrendada al igual que su index.
+Se cambio color de la navbar.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
